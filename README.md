@@ -49,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
