@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Heap (Priority Queue)
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
