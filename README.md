@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0509-fibonacci-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
