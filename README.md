@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Bit Manipulation
