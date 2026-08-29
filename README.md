@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
