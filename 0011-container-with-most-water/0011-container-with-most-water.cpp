@@ -4,7 +4,7 @@ public:
         int n=height.size();
         int lp=0,rp=n-1;
         int area;
-        int maxwater=0;
+        int maxarea=INT_MIN;
         while(lp<rp){
             int w=rp-lp;
             int h=min(height[lp],height[rp]);
@@ -15,8 +15,8 @@ public:
                 rp--;
             }
             area=w*h;
-            maxwater=max(maxwater,area);
+            maxarea=max(maxarea,area);
         }
-        return maxwater;
+        return maxarea;
     }
 };
