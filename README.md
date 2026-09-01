@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0367-valid-perfect-square/) | Easy |
@@ -170,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
