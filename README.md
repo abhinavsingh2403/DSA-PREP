@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
+| [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0367-valid-perfect-square/) | Easy |
