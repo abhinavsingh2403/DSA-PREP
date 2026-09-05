@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0344-reverse-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
