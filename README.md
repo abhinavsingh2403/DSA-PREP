@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
@@ -214,4 +217,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
