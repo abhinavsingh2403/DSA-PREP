@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
