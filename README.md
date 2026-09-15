@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0509-fibonacci-number/) | Easy |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -254,4 +258,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
