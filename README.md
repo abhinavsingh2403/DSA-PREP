@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0263-ugly-number/) | Easy |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
