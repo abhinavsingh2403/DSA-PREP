@@ -14,6 +14,7 @@ public:
                 c=1;
                 last=nums[i];
             }
+            else if(nums[i]==last)continue;
             longest=max(longest,c);
         }
         return longest;
