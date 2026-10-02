@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
