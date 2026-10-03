@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0011-container-with-most-water/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
