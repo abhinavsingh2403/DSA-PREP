@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2235-add-two-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/3870-count-commas-in-range/) | Easy |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,4 +312,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0410-split-array-largest-sum/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
