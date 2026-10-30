@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0367-valid-perfect-square/) | Easy |
@@ -359,4 +361,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0040-combination-sum-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
