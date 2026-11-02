@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
