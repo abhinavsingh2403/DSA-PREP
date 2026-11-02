@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
