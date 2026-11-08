@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0216-combination-sum-iii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
