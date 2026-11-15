@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [4107-count-valid-suffix-sorts-i](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/4107-count-valid-suffix-sorts-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [4107-count-valid-suffix-sorts-i](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/4107-count-valid-suffix-sorts-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [4107-count-valid-suffix-sorts-i](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/4107-count-valid-suffix-sorts-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
