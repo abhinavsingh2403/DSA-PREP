@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0206-reverse-linked-list/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0283-move-zeroes/) | Easy |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0268-missing-number/) | Easy |
@@ -428,4 +431,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0051-n-queens/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
