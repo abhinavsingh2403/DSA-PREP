@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhinavsingh2403/DSA-PREP/tree/main/0141-linked-list-cycle/) | Easy |
